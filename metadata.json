@@ -1,0 +1,5 @@
+{
+  "name": "Sistem Pencatatan Pelanggaran Siswa",
+  "description": "A web application to record and manage student violations, featuring user authentication, student management, violation logging, and PDF reporting. It includes CRUD operations for students, violations, and users, with data persistence via local storage.",
+  "requestFramePermissions": []
+}
